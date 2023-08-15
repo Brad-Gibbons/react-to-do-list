@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "task": "Give dog a bath",
+    "complete": true,
+    "priority": 1
+  }, {
+    "id": 2,
+    "task": "Do laundry",
+    "complete": true,
+    "priority": 4
+  }, {
+    "id": 3,
+    "task": "Vacuum floor",
+    "complete": false,
+    "priority": 2
+  }, {
+    "id": 4,
+    "task": "Feed cat",
+    "complete": true,
+    "priority": 5
+  }]
+ 
